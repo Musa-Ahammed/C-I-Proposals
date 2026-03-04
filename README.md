@@ -1,7 +1,7 @@
 # C-I-Proposals
 Sample of a C&amp;I Proposals
 
-<img width="695" height="900" alt="image" src="https://github.com/user-attachments/assets/0063a4d1-ed6a-49fe-9baa-125a19c2b43d" />
+<img width="619" height="802" alt="image" src="https://github.com/user-attachments/assets/daece32d-0a83-4c51-8a78-d07b6b7aa971" />
 
 <img width="610" height="804" alt="image" src="https://github.com/user-attachments/assets/1480a275-2f72-4aed-b50c-4bf99922eab8" />
 
